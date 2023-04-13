@@ -2,8 +2,8 @@
 - 💼 I’m a Product Designer & Front-end Dev
 - 👀 I’m interested in web3, AR-VR, 3d design & software etc.
 - 🌱 I’m currently learning reactJs, and nextJs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on UI/UX or Frontend Role
+- 📫 My Links: https://link3.to/kaiirennkunn
 
 <!---
 darksaiii/darksaiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
